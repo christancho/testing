@@ -1,1 +1,2 @@
 Info on file 1
+With information added on remote origin (Github)
